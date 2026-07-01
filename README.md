@@ -1,3 +1,5 @@
+Task 2
+
 # 💰 Smart Expense Tracker Pro
 
 A professional **Python-based Expense Management System** developed for internship, portfolio, and interview purposes. This project helps users efficiently manage their daily expenses, monitor budgets, analyze spending habits, and generate reports with interactive visualizations.
